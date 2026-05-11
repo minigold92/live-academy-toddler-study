@@ -1,0 +1,39 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Audio (large, regenerable from yt-dlp)
+audio/
+*.wav
+*.mp3
+*.m4a
+
+# Whisper transcripts (large, regenerable)
+transcripts/
+
+# VibeVoice repo (cloned, not source)
+VibeVoice/
+
+# MkDocs build output
+site/
+
+# Logs
+*.log
+logs_*
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Downloaded video tracking
+downloaded.txt
+venv-info/
+
+.omc/
+site/

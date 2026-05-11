@@ -1,0 +1,197 @@
+site_name: 라이브 아카데미 토들러 학습 노트
+site_description: 왕초보 영어회화 96편 — 트랜스크립트 기반 학습 자료 + AI 인터랙션 프롬프트
+site_author: minigold92
+site_url: https://minigold92.github.io/live-academy-toddler-study/
+
+repo_name: minigold92/live-academy-toddler-study
+repo_url: https://github.com/minigold92/live-academy-toddler-study
+edit_uri: edit/main/docs/
+
+docs_dir: docs
+
+theme:
+  name: material
+  language: ko
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: 다크 모드로 전환
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: 라이트 모드로 전환
+  font:
+    text: Noto Sans KR
+    code: JetBrains Mono
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.expand
+    - navigation.path
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+    - toc.follow
+  icon:
+    repo: fontawesome/brands/github
+    edit: material/pencil
+
+plugins:
+  - search:
+      lang:
+        - ko
+        - en
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.keys
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/minigold92/live-academy-toddler-study
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/playlist?list=PLEzsBdrpZXC8tdzAqQHEQ66TocGI-Kagh
+
+copyright: |
+  강의 원작자: <a href="https://www.youtube.com/@LiveAcademyToddler">새벽1시의 영어교실 라이브 아카데미 토들러</a>
+  · 학습 자료는 학습 보조 목적의 비상업적 정리물입니다.
+
+nav:
+  - 홈: index.md
+  - 1~20강 · 문장 구성 기초:
+    - "Lesson 001 — 영어 문장의 뼈대: **본문장 + 세부사항** 조합법": Lesson_001.md
+    - "Lesson 002 — **3인칭 단수 -s**와 **부정문(don't / doesn't)** 만들기": Lesson_002.md
+    - "Lesson 003 — **be 동사(비동사) 입문**: 행동 뒤에 인상·코멘트 붙이기": Lesson_003.md
+    - "Lesson 004 — **현재·과거·미래 시제** 변환과 부정형 총정리": Lesson_004.md
+    - "Lesson 005 — 지하철 출퇴근/친구 초대 장면에 **과거·미래시제 + 인상 표현(be 동사)** 입히기": Lesson_005.md
+    - "Lesson 006 — 본문장 의미 확장: **want to** (하고 싶다) · **have to** (해야 한다)": Lesson_006.md
+    - "Lesson 007 — **의문문 기초**: Do you? / Does she? / Is it?": Lesson_007.md
+    - "Lesson 008 — **의문문 Part 2**: 시제 변환 + **의문사** (what, who, when, where, why, how)": Lesson_008.md
+    - "Lesson 009 — **의문문 Part 3**: be 동사 시제 변환 + **will it?** + **How was it?**": Lesson_009.md
+    - "Lesson 010 — 문장 연결법: **because** (이유) · **and** (나열) · **so** (결과)": Lesson_010.md
+    - "Lesson 011 — 문장 연결 실전: **because / and / so** 응용 (라면 먹은 날 이야기)": Lesson_011.md
+    - "Lesson 012 — 가족 여행 운전 이야기: **throughout / don't you / even / still / because**": Lesson_012.md
+    - "Lesson 013 — **There is / There are**로 있다·없다·많다·별로 없다 표현하기": Lesson_013.md
+    - "Lesson 014 — **There is vs. I have / They have**: 누구한테 있는지에 따라 달라지는 표현": Lesson_014.md
+    - "Lesson 015 — **It's + 형용사 + to + 동사**: \"~하기가 어때요\" 표현하기": Lesson_015.md
+    - "Lesson 016 — **something / someone / somewhere** + 형용사로 막연하게 말하기": Lesson_016.md
+    - "Lesson 017 — **It takes / It costs**: 시간이 걸리다, 돈이 들다 (현재·과거·미래 + 부정)": Lesson_017.md
+    - "Lesson 018 — **Does/Did/Would it take long?**: 시간이 걸리다 의문형 완성 (Part 2)": Lesson_018.md
+    - "Lesson 019 — **when / after / before / until**: 시점 연결어로 문장 이어 말하기": Lesson_019.md
+    - "Lesson 020 — **boring vs. bored / confusing vs. confused / exciting vs. excited**: -ing형과 -ed형 구분하기 (Part 1)": Lesson_020.md
+  - 21~40강 · be동사·관계절·감각동사:
+    - "Lesson 021 — **annoying vs. annoyed / frustrating vs. frustrated**: 짜증 표현 구분하기 (Part 2)": Lesson_021.md
+    - "Lesson 022 — \"할 거 있어?\" — `something to do` / `nothing to ~` 패턴으로 일상 대화 완성": Lesson_022.md
+    - "Lesson 023 — \"예전에는 ~했었는데, 지금은 ~해\" — `used to` + `hardly ~ anymore` 패턴": Lesson_023.md
+    - "Lesson 024 — \"돈/시간을 쓰다\" — `spend + money/time + on/doing` 기본 패턴": Lesson_024.md
+    - "Lesson 025 — 크리스마스 계획 대화 — `spend + 특정 시간 + at 장소 + 동사ing` 응용": Lesson_025.md
+    - "Lesson 026 — 시간 표현 Part 1 — `ago` / `in + 시간` / `from now` / 엊그제·모레": Lesson_026.md
+    - "Lesson 027 — 감각동사 Part 1 — `look / sound / smell / taste / feel + 형용사`": Lesson_027.md
+    - "Lesson 028 — 감각동사 Part 2 — `감각동사 + like + 명사` / `감각동사 + like + 완성 문장`": Lesson_028.md
+    - "Lesson 029 — 감각동사 Part 3 + `seem` — 짧은 대화로 총정리": Lesson_029.md
+    - "Lesson 030 — 감각동사 Part 4 — `to me / to you` 추가로 \"내가/네가 보기엔\" 표현": Lesson_030.md
+    - "Lesson 031 — 관계절 Part 1 — 대상이 먼저, 부연 설명이 나중 (`that` 관계대명사)": Lesson_031.md
+    - "Lesson 032 — 관계절에서 **전치사를 살려야 하는** 경우 (Part 2) — 장소·수단·동반": Lesson_032.md
+    - "Lesson 033 — 관계절 Part 3 — **주어가 생략되는** 관계절 (who / that)": Lesson_033.md
+    - "Lesson 034 — 관계절을 실전 대화에 녹이기 — 중고차 구하는 대화 (who / that 총정리)": Lesson_034.md
+    - "Lesson 035 — \"거기 음식 어때?\" — **the food there** 패턴과 음식 평가 표현 3가지": Lesson_035.md
+    - "Lesson 036 — **a lot of** vs **a lot** — \"뭐뭐가 많다\" vs \"뭐뭐를 많이 한다\"": Lesson_036.md
+    - "Lesson 037 — **hurt** — \"어디가 아프다\" vs \"어디를 다쳤다\" 두 가지 용법": Lesson_037.md
+    - "Lesson 038 — **I slept wrong** — \"잘못 ~했다\" 표현 + Lesson 37 복습 연결": Lesson_038.md
+    - "Lesson 039 — **cheer up / came out wrong / honest mistake / didn't mean to** — 감정·실수 표현 4종 묶음": Lesson_039.md
+    - "Lesson 040 — **have someone over / go over / come over** — 집에 초대하다·놀러 가다·오다": Lesson_040.md
+  - 41~60강 · 일상 회화 표현:
+    - "Lesson 041 — **left** — \"뭐뭐가 남아 있다/없다\" 표현 (have/there is + left)": Lesson_041.md
+    - "Lesson 042 — 간접 의문문 Part 1: \"뭔지 모르겠어요\" — I don't know what it is": Lesson_042.md
+    - "Lesson 043 — 간접 의문문 Part 2: 일반동사·Yes/No 의문문까지 확장": Lesson_043.md
+    - "Lesson 044 — \"젊었을 때\"부터 \"나이가 들수록\"까지 — 나이·시절 표현 모음": Lesson_044.md
+    - "Lesson 045 — 고민 표현하기: \"I'm not sure if I should...\" / \"I'm trying to decide...\"": Lesson_045.md
+    - "Lesson 046 — \"이렇게 하는 게 낫다/나을 거야/나을 수도 있어\" — It's better / would be better / might be better": Lesson_046.md
+    - "Lesson 047 — \"원래 이런 거야?\" — It's supposed to be like this / It's always like this": Lesson_047.md
+    - "Lesson 048 — \"원래 이렇게 ~해?\" 한 문장으로 압축 — Is it always this crowded? / Is it supposed to get this hot?": Lesson_048.md
+    - "Lesson 049 — 나이대·키·몸무게 묘사하기: \"She's in her mid 20s\" / \"He's kind of chubby\"": Lesson_049.md
+    - "Lesson 050 — \"해야 될 거야 / 해야 될 수도 있어\" — I'm gonna have to / I might have to": Lesson_050.md
+    - "Lesson 051 — \"할 기회가 있었어요\" — I got a chance to / I got to / I didn't really get a chance to": Lesson_051.md
+    - "Lesson 052 — 현재 완료형으로 \"이미/아직\" 말하기 (already / yet)": Lesson_052.md
+    - "Lesson 053 — 동사 carry — 들고·넣고·메고 \"가지고 다니다\"": Lesson_053.md
+    - "Lesson 054 — 동사 leave — 떠나다·출발하다·두고 가다·두고 오다": Lesson_054.md
+    - "Lesson 055 — 동사 happen — 대화 속 \"무슨 일이 있었어?\" 패턴": Lesson_055.md
+    - "Lesson 056 — I like it when / I don't like it when — 상황을 묘사하며 좋고 싫음 표현하기": Lesson_056.md
+    - "Lesson 057 — 습관·선호 표현 확장: I have a habit of -ing / I feel comfortable with / I prefer it to be": Lesson_057.md
+    - "Lesson 058 — 구동사 run out of — 시간·돈·배터리가 \"떨어져 가다\"": Lesson_058.md
+    - "Lesson 059 — 장갑 대화로 배우는 복수 대명사와 가정법 표현": Lesson_059.md
+    - "Lesson 060 — I spent / I wasted + 시간 + 장소 + -ing — 시간을 어떻게 보냈나 말하기": Lesson_060.md
+  - 61~80강 · 동사 활용·시간 표현:
+    - "Lesson 061 — alone / by myself / lonely — 혼자와 외로움, 그리고 myself 직접": Lesson_061.md
+    - "Lesson 062 — **I'm willing to ~**: 할 의향이 있다 / 할 생각도 있다": Lesson_062.md
+    - "Lesson 063 — **speak / talk / tell / say** 구별: 통화 이야기를 영어로": Lesson_063.md
+    - "Lesson 064 — **wait / waited / had to wait**: 기다리다 표현 확장": Lesson_064.md
+    - "Lesson 065 — **decide**: 결정하다 / 하기로 했다 / 아직 못 정했다": Lesson_065.md
+    - "Lesson 066 — 날짜·요일·주 표현: **on Monday / last week on Monday / this Friday**": Lesson_066.md
+    - "Lesson 067 — **the food there / the people here**: 거기·여기 + 명사 표현": Lesson_067.md
+    - "Lesson 068 — **the best ~ I've ever seen/had**: 내가 ~한 것 중 최고": Lesson_068.md
+    - "Lesson 069 — 모임 약속 대화: **get together / by then / run late / make it**": Lesson_069.md
+    - "Lesson 070 — 소유격 회화: **mine / whose / someone else's**": Lesson_070.md
+    - "Lesson 071 — **looks/sounds/feels familiar**: 낯이 익다 / 귀에 익다 / 잘 안다": Lesson_071.md
+    - "Lesson 072 — 시간이 얼마나 있는지 스펙트럼으로 말하기 (I have all the time in the world → I have no time at all)": Lesson_072.md
+    - "Lesson 073 — 누가 어디서 무엇을 하는지 한 문장으로 말하기 (She's in her room getting ready)": Lesson_073.md
+    - "Lesson 074 — 날씨 변화를 영어로 표현하기 (It's cool → It's gotten much cooler)": Lesson_074.md
+    - "Lesson 075 — 할 일이 있다/많다/밀렸다 (I have something to do → I have a lot of work to catch up on)": Lesson_075.md
+    - "Lesson 076 — A뿐만 아니라 B도 (Not only A but also B)": Lesson_076.md
+    - "Lesson 077 — I want to be + 형용사/명사/전치사구/분사 (되고 싶다, 있고 싶다, 대해지고 싶다)": Lesson_077.md
+    - "Lesson 078 — 관사 감각 기르기: a dog / dogs / the dog (짧은 이야기로 익히는 관사)": Lesson_078.md
+    - "Lesson 079 — 하고 싶었지만 못했다 (I wanted to..., but..., so I couldn't)": Lesson_079.md
+    - "Lesson 080 — 감각동사 감각 기르기 (look / sound + 형용사 / like 명사 / like 문장)": Lesson_080.md
+  - 81~96강 · 의도·계획·걱정 표현:
+    - "Lesson 081 — 안 하기로 했다 / 다르게 하기로 했다 (I decided not to / We decided to...)": Lesson_081.md
+    - "Lesson 082 — 주말 계획 + 변수: **I'm planning to / but if it rains / we might**": Lesson_082.md
+    - "Lesson 083 — 계획 표현 확장: **I'm thinking of + -ing / if something comes up / I might do it next week**": Lesson_083.md
+    - "Lesson 084 — \"가장 ~한\" 표현: **최상급(the cheapest / the most expensive / the best) + one of the ~**": Lesson_084.md
+    - "Lesson 085 — \"~하는 법을 보여주다/가르치다\": **showed/taught someone how to do something**": Lesson_085.md
+    - "Lesson 086 — 라이브 스트림 (수업 없음)": Lesson_086.md
+    - "Lesson 087 — 라이브 스트림 대기 시간 (수업 없음)": Lesson_087.md
+    - "Lesson 088 — 시간·비용 표현: **it takes / it cost / it took + 구체적인 숫자**": Lesson_088.md
+    - "Lesson 089 — 라이브 스트림 (수업 없음)": Lesson_089.md
+    - "Lesson 090 — 빈도·시간 표현: **once/twice a day + I spend X minutes every morning -ing**": Lesson_090.md
+    - "Lesson 091 — 라이브 스트림 대기 시간 (수업 없음)": Lesson_091.md
+    - "Lesson 092 — 오늘/주말 계획을 영어로 말하기: 표현별 뉘앙스 비교": Lesson_092.md
+    - "Lesson 093 — 주말 계획·약속을 자연스럽게 표현하기: **I'm going / I'm having / I have / I'm planning to**": Lesson_093.md
+    - "Lesson 094 — 라이브 스트림 (수업 없음 / 웨이팅 + 잡담 위주)": Lesson_094.md
+    - "Lesson 095 — 라이브 스트림 (수업 없음 / 음악 + 웨이팅 + 잡담 위주)": Lesson_095.md
+    - "Lesson 096 — 걱정 표현 완전 정복: **I'm worried / I'm worried I might / What if / I don't want ~ to**": Lesson_096.md

@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """Inject auto-grouped nav block into mkdocs.yml.
-Groups lessons by chapter (001-020 / 021-040 / 041-060 / 061-080 / 081-096)."""
+Short sidebar labels (just 'Lesson NNN'); long titles only on the page itself."""
 import os, re, glob
 
 DOCS = "docs"
@@ -14,39 +14,26 @@ CHAPTERS = [
     (81, 96,  "81~96강 · 의도·계획·걱정 표현"),
 ]
 
-# Read each lesson's title (the # heading)
-titles = {}
-for f in sorted(glob.glob(os.path.join(DOCS, "Lesson_*.md"))):
-    with open(f) as fp:
-        for line in fp:
-            if line.startswith("# Lesson"):
-                titles[os.path.basename(f)] = line.lstrip("# ").strip()
-                break
-
-# Build nav block
-nav_lines = ["nav:", "  - 홈: index.md"]
+# Build nav block — short labels for sidebar
+nav_lines = ["nav:", "  - 홈: index.md", "  - 개인정보처리방침: privacy.md"]
 for start, end, label in CHAPTERS:
     nav_lines.append(f"  - {label}:")
     for n in range(start, end + 1):
         fname = f"Lesson_{n:03d}.md"
-        title = titles.get(fname, fname)
-        # Escape any quotes in title
-        safe_title = title.replace('"', '\\"')
-        nav_lines.append(f'    - "{safe_title}": {fname}')
+        if not os.path.exists(os.path.join(DOCS, fname)):
+            continue
+        nav_lines.append(f'    - "Lesson {n:03d}": {fname}')
 
 nav_block = "\n".join(nav_lines) + "\n"
 
-# Inject into mkdocs.yml (replace existing nav: block or append)
+# Inject into mkdocs.yml (replace existing nav: block)
 with open(MKDOCS) as f:
     content = f.read()
 
-# Remove existing nav: block if any
 content = re.sub(r"\nnav:.*?(?=\n\w|\Z)", "", content, flags=re.DOTALL)
-
-# Append at end
 content = content.rstrip() + "\n\n" + nav_block
 
 with open(MKDOCS, "w") as f:
     f.write(content)
 
-print(f"Injected nav: {len(titles)} lessons across {len(CHAPTERS)} chapters")
+print(f"Injected nav: 96 lessons across {len(CHAPTERS)} chapters (short labels)")

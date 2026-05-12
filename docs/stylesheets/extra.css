@@ -1,15 +1,14 @@
-/* Pretendard Variable — 한국어에 최적화된 모던 산세리프 */
+/* Pretendard Variable — 한국어 모던 산세리프 */
 @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.css");
 
 :root,
 [data-md-color-scheme] {
   --md-text-font: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont,
-    system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo",
-    "Noto Sans KR", "Malgun Gothic", sans-serif;
+    system-ui, Roboto, "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", sans-serif;
   --md-code-font: "JetBrains Mono", "Fira Code", "SF Mono", Consolas, monospace;
 }
 
-/* 본문 가독성 살짝 끌어올리기 */
+/* 본문 가독성 */
 .md-typeset {
   font-size: 0.78rem;
   line-height: 1.75;
@@ -18,28 +17,20 @@
 
 .md-typeset h1,
 .md-typeset h2,
-.md-typeset h3,
-.md-typeset h4 {
+.md-typeset h3 {
   font-weight: 700;
   letter-spacing: -0.02em;
 }
 
-.md-typeset h1 { font-size: 1.85rem; line-height: 1.3; margin: 0.5em 0 0.6em; }
-.md-typeset h2 { font-size: 1.35rem; margin-top: 1.8em; }
-.md-typeset h3 { font-size: 1.1rem; }
+.md-typeset h1 { font-size: 1.7rem; line-height: 1.3; margin: 0.4em 0 0.6em; }
+.md-typeset h2 { font-size: 1.3rem; margin-top: 1.8em; }
+.md-typeset h3 { font-size: 1.05rem; }
 
-/* 강사 한마디·핵심 포인트 블록쿼트 스타일 */
-.md-typeset blockquote {
-  border-left: 4px solid var(--md-accent-fg-color);
-  background: var(--md-default-bg-color--lightest, rgba(94, 109, 244, 0.06));
-  border-radius: 0 0.4rem 0.4rem 0;
-  padding: 0.8rem 1rem;
-  margin: 1.2rem 0;
-  color: inherit;
-}
-
-[data-md-color-scheme="slate"] .md-typeset blockquote {
-  background: rgba(94, 109, 244, 0.12);
+/* 사이드바 — 짧은 레이블에 맞게 간소 */
+.md-nav__item .md-nav__link {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
 /* 코드블록 — AI 프롬프트가 도드라지게 */
@@ -52,58 +43,73 @@
 .md-typeset .highlight {
   border-radius: 0.5rem;
   overflow: hidden;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
 }
 
-/* 테이블 — 한국어/영어 대조에 적합한 모양 */
+/* 테이블 — 한·영 대조 */
 .md-typeset table:not([class]) {
   font-size: 0.78rem;
-  border-radius: 0.5rem;
+  border-radius: 0.4rem;
   overflow: hidden;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06);
 }
 
 .md-typeset table:not([class]) th {
-  background: var(--md-primary-fg-color);
-  color: var(--md-primary-bg-color);
+  background: var(--md-default-fg-color--lightest);
   font-weight: 600;
 }
 
-.md-typeset table:not([class]) td:first-child {
-  font-weight: 600;
-  white-space: nowrap;
+/* 블록쿼트 — 강사 한마디·핵심 포인트, 가독성 우선 */
+.md-typeset blockquote {
+  border-left: 3px solid var(--md-accent-fg-color);
+  background: transparent;
+  padding-left: 1rem;
+  margin: 1rem 0;
+  color: var(--md-default-fg-color--light);
 }
 
-/* 홈 페이지 hero */
+.md-typeset blockquote > :first-child {
+  margin-top: 0;
+}
+
+.md-typeset blockquote > :last-child {
+  margin-bottom: 0;
+}
+
+/* "오늘의 핵심 포인트" 같은 강조 박스만 살짝 컬러 */
+.md-typeset blockquote strong:first-child {
+  color: var(--md-default-fg-color);
+}
+
+/* ─── 홈 페이지 hero ─── */
 .home-hero {
   text-align: center;
-  padding: 3rem 1rem 2.5rem;
-  margin: -1.2rem -1rem 2rem;
+  padding: 2.6rem 1rem 2.2rem;
+  margin: 0 0 1.6rem;
   background: linear-gradient(135deg,
-    var(--md-primary-fg-color) 0%,
-    color-mix(in srgb, var(--md-primary-fg-color) 70%, #000) 100%);
+    var(--md-primary-fg-color),
+    color-mix(in srgb, var(--md-primary-fg-color) 75%, #000));
   color: var(--md-primary-bg-color);
-  border-radius: 0 0 1rem 1rem;
+  border-radius: 0.8rem;
 }
 
 .home-hero h1 {
   color: inherit !important;
-  font-size: 2.2rem !important;
-  margin: 0 0 0.6rem !important;
+  font-size: 1.85rem !important;
+  margin: 0 0 0.5rem !important;
   border: none !important;
 }
 
 .home-hero .hero-tagline {
-  font-size: 1.05rem;
+  font-size: 0.92rem;
   opacity: 0.92;
   margin: 0 auto;
-  max-width: 36rem;
+  max-width: 32rem;
+  line-height: 1.7;
 }
 
 .home-hero .hero-actions {
-  margin-top: 1.6rem;
+  margin-top: 1.4rem;
   display: flex;
-  gap: 0.6rem;
+  gap: 0.5rem;
   justify-content: center;
   flex-wrap: wrap;
 }
@@ -111,78 +117,80 @@
 .home-hero .hero-btn {
   display: inline-flex;
   align-items: center;
-  gap: 0.4rem;
-  padding: 0.6rem 1.1rem;
+  gap: 0.35rem;
+  padding: 0.55rem 1rem;
   border-radius: 2rem;
-  background: rgba(255, 255, 255, 0.18);
+  background: rgba(255, 255, 255, 0.16);
   color: inherit;
   font-weight: 600;
-  font-size: 0.85rem;
+  font-size: 0.78rem;
   text-decoration: none !important;
   transition: background 0.15s, transform 0.15s;
-  border: 1px solid rgba(255, 255, 255, 0.25);
+  border: 1px solid rgba(255, 255, 255, 0.22);
 }
 
 .home-hero .hero-btn:hover {
-  background: rgba(255, 255, 255, 0.28);
+  background: rgba(255, 255, 255, 0.26);
   transform: translateY(-1px);
 }
 
 .home-hero .hero-btn.primary {
   background: white;
   color: var(--md-primary-fg-color);
+  border-color: transparent;
 }
 
 .home-hero .hero-btn.primary:hover {
-  background: rgba(255, 255, 255, 0.95);
+  background: rgba(255, 255, 255, 0.94);
 }
 
-/* 카드 그리드 */
+/* ─── 카드 그리드 ─── */
 .card-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
-  gap: 1rem;
-  margin: 1.5rem 0;
+  grid-template-columns: repeat(auto-fill, minmax(11rem, 1fr));
+  gap: 0.7rem;
+  margin: 1.2rem 0;
 }
 
 .card-grid .card {
   display: block;
-  padding: 1.1rem 1.2rem;
-  border-radius: 0.7rem;
+  padding: 1rem 1.1rem;
+  border-radius: 0.6rem;
   background: var(--md-default-bg-color);
   border: 1px solid var(--md-default-fg-color--lightest);
   color: inherit;
   text-decoration: none !important;
-  transition: transform 0.15s, box-shadow 0.15s, border-color 0.15s;
+  transition: transform 0.12s, box-shadow 0.12s, border-color 0.12s;
 }
 
 .card-grid .card:hover {
   transform: translateY(-2px);
-  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.06);
   border-color: var(--md-accent-fg-color);
 }
 
 .card-grid .card .card-emoji {
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   display: block;
-  margin-bottom: 0.4rem;
+  margin-bottom: 0.3rem;
 }
 
 .card-grid .card .card-title {
   font-weight: 700;
-  font-size: 0.95rem;
-  margin-bottom: 0.3rem;
+  font-size: 0.85rem;
+  margin-bottom: 0.25rem;
+  line-height: 1.35;
 }
 
 .card-grid .card .card-desc {
-  font-size: 0.78rem;
+  font-size: 0.72rem;
   color: var(--md-default-fg-color--light);
   line-height: 1.55;
 }
 
-/* AdSense 컨테이너 — 자리 잡아두기 */
+/* ─── AdSense 슬롯 ─── */
 .adsense-slot {
-  margin: 2.5rem 0 2rem;
+  margin: 2.2rem 0 1.8rem;
   text-align: center;
   min-height: 90px;
 }
@@ -194,38 +202,8 @@
 .adsense-slot::before {
   content: "광고";
   display: block;
-  font-size: 0.7rem;
+  font-size: 0.65rem;
   color: var(--md-default-fg-color--lighter);
   margin-bottom: 0.3rem;
-  opacity: 0.6;
-}
-
-/* 후원 버튼 (헤더 우상단/footer) */
-.sponsor-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.35rem;
-  padding: 0.35rem 0.75rem;
-  border-radius: 2rem;
-  background: linear-gradient(135deg, #ea4aaa, #b34bb1);
-  color: white !important;
-  font-size: 0.78rem;
-  font-weight: 600;
-  text-decoration: none !important;
-  transition: opacity 0.15s, transform 0.15s;
-}
-
-.sponsor-btn:hover {
-  opacity: 0.92;
-  transform: translateY(-1px);
-}
-
-.sponsor-btn svg {
-  width: 0.9em;
-  height: 0.9em;
-}
-
-/* 푸터 정돈 */
-.md-footer-meta {
-  background: var(--md-default-bg-color--darkest, #1a1a1a);
+  opacity: 0.5;
 }

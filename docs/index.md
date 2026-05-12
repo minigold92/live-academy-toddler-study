@@ -24,32 +24,11 @@ AI와 1:1로 학습할 수 있는 4가지 프롬프트까지 한 페이지에.
 
 ## 한 페이지에 들어 있는 것
 
-<div class="card-grid" markdown>
-
-<a class="card" href="Lesson_005/">
-  <span class="card-emoji">🎯</span>
-  <div class="card-title">오늘의 핵심 포인트</div>
-  <div class="card-desc">강사가 그날 새로 도입한 문법/표현 1~5개. 🆕 마크로 복습과 명확히 구분.</div>
-</a>
-
-<a class="card" href="Lesson_005/">
-  <span class="card-emoji">✨</span>
-  <div class="card-title">상황별 변환 테이블</div>
-  <div class="card-desc">한 시나리오에서 본 문장 → 오늘의 변환 → 응용을 한눈에. 한국어 의역 함께.</div>
-</a>
-
-<a class="card" href="Lesson_005/">
-  <span class="card-emoji">🤖</span>
-  <div class="card-title">AI 학습 4모드</div>
-  <div class="card-desc">ChatGPT/Gemini/Claude에 그대로 복사·붙여넣기. 튜터·퀴즈·롤플레이·응용.</div>
-</a>
-
-<a class="card" href="Lesson_005/">
-  <span class="card-emoji">🗣️</span>
-  <div class="card-title">발음·뉘앙스 코칭</div>
-  <div class="card-desc">강사가 영상에서 짚어준 연음·약화·줄임만 정리. 군더더기 없음.</div>
-</a>
-
+<div class="card-grid">
+<a class="card" href="Lesson_005/"><span class="card-emoji">🎯</span><div class="card-title">오늘의 핵심 포인트</div><div class="card-desc">강사가 그날 새로 도입한 문법/표현 1~5개. 🆕 마크로 복습과 명확히 구분.</div></a>
+<a class="card" href="Lesson_005/"><span class="card-emoji">✨</span><div class="card-title">상황별 변환 테이블</div><div class="card-desc">한 시나리오에서 본 문장 → 오늘의 변환 → 응용을 한눈에. 한국어 의역 함께.</div></a>
+<a class="card" href="Lesson_005/"><span class="card-emoji">🤖</span><div class="card-title">AI 학습 4모드</div><div class="card-desc">ChatGPT/Gemini/Claude에 그대로 복사·붙여넣기. 튜터·퀴즈·롤플레이·응용.</div></a>
+<a class="card" href="Lesson_005/"><span class="card-emoji">🗣️</span><div class="card-title">발음·뉘앙스 코칭</div><div class="card-desc">강사가 영상에서 짚어준 연음·약화·줄임만 정리. 군더더기 없음.</div></a>
 </div>
 
 <div class="adsense-slot">
@@ -63,38 +42,12 @@ AI와 1:1로 학습할 수 있는 4가지 프롬프트까지 한 페이지에.
 
 <h2 id="chapters">챕터별 둘러보기</h2>
 
-<div class="card-grid" markdown>
-
-<a class="card" href="Lesson_001/">
-  <span class="card-emoji">🌱</span>
-  <div class="card-title">1~20강 · 문장 구성 기초</div>
-  <div class="card-desc">본문장 + 세부사항 / 3인칭 -s / be동사 / 시제 / 의문문 / 연결어 / there is·are</div>
-</a>
-
-<a class="card" href="Lesson_021/">
-  <span class="card-emoji">🌿</span>
-  <div class="card-title">21~40강 · be·관계절·감각동사</div>
-  <div class="card-desc">감정 형용사 -ing/-ed / spend / 시간 표현 / 감각동사 / 관계절 / 일상 표현</div>
-</a>
-
-<a class="card" href="Lesson_041/">
-  <span class="card-emoji">🌳</span>
-  <div class="card-title">41~60강 · 일상 회화 표현</div>
-  <div class="card-desc">간접 의문문 / 고민·낫다·원래 / 외모 묘사 / have to / 기회 / 현재완료 / 일상 동사</div>
-</a>
-
-<a class="card" href="Lesson_061/">
-  <span class="card-emoji">🍀</span>
-  <div class="card-title">61~80강 · 동사·시간 표현</div>
-  <div class="card-desc">willing to / speak·tell·say / decide / 날짜 / 최상급 / familiar / 약속 대화</div>
-</a>
-
-<a class="card" href="Lesson_081/">
-  <span class="card-emoji">🍂</span>
-  <div class="card-title">81~96강 · 의도·계획·걱정</div>
-  <div class="card-desc">decided to/not to / planning to / thinking of / 시간·비용·빈도 / worried about / What if</div>
-</a>
-
+<div class="card-grid">
+<a class="card" href="Lesson_001/"><span class="card-emoji">🌱</span><div class="card-title">1~20강 · 문장 구성 기초</div><div class="card-desc">본문장 + 세부사항 / 3인칭 -s / be동사 / 시제 / 의문문 / 연결어 / there is·are</div></a>
+<a class="card" href="Lesson_021/"><span class="card-emoji">🌿</span><div class="card-title">21~40강 · be·관계절·감각동사</div><div class="card-desc">감정 형용사 -ing/-ed / spend / 시간 표현 / 감각동사 / 관계절 / 일상 표현</div></a>
+<a class="card" href="Lesson_041/"><span class="card-emoji">🌳</span><div class="card-title">41~60강 · 일상 회화 표현</div><div class="card-desc">간접 의문문 / 고민·낫다·원래 / 외모 묘사 / have to / 기회 / 현재완료 / 일상 동사</div></a>
+<a class="card" href="Lesson_061/"><span class="card-emoji">🍀</span><div class="card-title">61~80강 · 동사·시간 표현</div><div class="card-desc">willing to / speak·tell·say / decide / 날짜 / 최상급 / familiar / 약속 대화</div></a>
+<a class="card" href="Lesson_081/"><span class="card-emoji">🍂</span><div class="card-title">81~96강 · 의도·계획·걱정</div><div class="card-desc">decided to/not to / planning to / thinking of / 시간·비용·빈도 / worried about / What if</div></a>
 </div>
 
 ## 어떻게 만들어졌나

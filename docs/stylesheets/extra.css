@@ -188,22 +188,3 @@
   line-height: 1.55;
 }
 
-/* ─── AdSense 슬롯 ─── */
-.adsense-slot {
-  margin: 2.2rem 0 1.8rem;
-  text-align: center;
-  min-height: 90px;
-}
-
-.adsense-slot ins.adsbygoogle {
-  display: block;
-}
-
-.adsense-slot::before {
-  content: "광고";
-  display: block;
-  font-size: 0.65rem;
-  color: var(--md-default-fg-color--lighter);
-  margin-bottom: 0.3rem;
-  opacity: 0.5;
-}

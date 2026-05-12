@@ -31,15 +31,6 @@ AI와 1:1로 학습할 수 있는 4가지 프롬프트까지 한 페이지에.
 <a class="card" href="Lesson_005/"><span class="card-emoji">🗣️</span><div class="card-title">발음·뉘앙스 코칭</div><div class="card-desc">강사가 영상에서 짚어준 연음·약화·줄임만 정리. 군더더기 없음.</div></a>
 </div>
 
-<div class="adsense-slot">
-  <ins class="adsbygoogle"
-    style="display:block"
-    data-ad-client="ca-pub-6603233291542960"
-    data-ad-slot="auto"
-    data-ad-format="auto"
-    data-full-width-responsive="true"></ins>
-</div>
-
 <h2 id="chapters">챕터별 둘러보기</h2>
 
 <div class="card-grid">

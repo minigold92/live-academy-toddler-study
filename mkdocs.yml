@@ -85,9 +85,6 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
 
-extra_javascript:
-  - javascripts/adsense.js
-
 extra:
   social:
     - icon: material/heart
@@ -106,103 +103,103 @@ nav:
   - 홈: index.md
   - 개인정보처리방침: privacy.md
   - 1~20강 · 문장 구성 기초:
-    - "Lesson 001": Lesson_001.md
-    - "Lesson 002": Lesson_002.md
-    - "Lesson 003": Lesson_003.md
-    - "Lesson 004": Lesson_004.md
-    - "Lesson 005": Lesson_005.md
-    - "Lesson 006": Lesson_006.md
-    - "Lesson 007": Lesson_007.md
-    - "Lesson 008": Lesson_008.md
-    - "Lesson 009": Lesson_009.md
-    - "Lesson 010": Lesson_010.md
-    - "Lesson 011": Lesson_011.md
-    - "Lesson 012": Lesson_012.md
-    - "Lesson 013": Lesson_013.md
-    - "Lesson 014": Lesson_014.md
-    - "Lesson 015": Lesson_015.md
-    - "Lesson 016": Lesson_016.md
-    - "Lesson 017": Lesson_017.md
-    - "Lesson 018": Lesson_018.md
-    - "Lesson 019": Lesson_019.md
-    - "Lesson 020": Lesson_020.md
+    - "Lesson 001 · 본문장 + 세부사항": Lesson_001.md
+    - "Lesson 002 · 3인칭 단수 -s · 부정문(don't / doesn't)": Lesson_002.md
+    - "Lesson 003 · be 동사(비동사) 입문": Lesson_003.md
+    - "Lesson 004 · 현재·과거·미래 시제": Lesson_004.md
+    - "Lesson 005 · 과거·미래시제 + 인상 표현(be 동사)": Lesson_005.md
+    - "Lesson 006 · want to · have to": Lesson_006.md
+    - "Lesson 007 · 의문문 기초": Lesson_007.md
+    - "Lesson 008 · 의문문 Part 2 · 의문사": Lesson_008.md
+    - "Lesson 009 · 의문문 Part 3 · will it? · How was…": Lesson_009.md
+    - "Lesson 010 · because · and · so": Lesson_010.md
+    - "Lesson 011 · because / and / so": Lesson_011.md
+    - "Lesson 012 · throughout / don't you / even /…": Lesson_012.md
+    - "Lesson 013 · There is / There are": Lesson_013.md
+    - "Lesson 014 · There is vs. I have / They have": Lesson_014.md
+    - "Lesson 015 · It's + 형용사 + to + 동사": Lesson_015.md
+    - "Lesson 016 · something / someone / somewhere": Lesson_016.md
+    - "Lesson 017 · It takes / It costs": Lesson_017.md
+    - "Lesson 018 · Does/Did/Would it take long?": Lesson_018.md
+    - "Lesson 019 · when / after / before / until": Lesson_019.md
+    - "Lesson 020 · boring vs. bored / confusing vs.…": Lesson_020.md
   - 21~40강 · be동사·관계절·감각동사:
-    - "Lesson 021": Lesson_021.md
-    - "Lesson 022": Lesson_022.md
-    - "Lesson 023": Lesson_023.md
-    - "Lesson 024": Lesson_024.md
-    - "Lesson 025": Lesson_025.md
-    - "Lesson 026": Lesson_026.md
-    - "Lesson 027": Lesson_027.md
-    - "Lesson 028": Lesson_028.md
-    - "Lesson 029": Lesson_029.md
-    - "Lesson 030": Lesson_030.md
-    - "Lesson 031": Lesson_031.md
-    - "Lesson 032": Lesson_032.md
-    - "Lesson 033": Lesson_033.md
-    - "Lesson 034": Lesson_034.md
-    - "Lesson 035": Lesson_035.md
-    - "Lesson 036": Lesson_036.md
-    - "Lesson 037": Lesson_037.md
-    - "Lesson 038": Lesson_038.md
-    - "Lesson 039": Lesson_039.md
-    - "Lesson 040": Lesson_040.md
+    - "Lesson 021 · annoying vs. annoyed / frustrati…": Lesson_021.md
+    - "Lesson 022 · \"할 거 있어?\"": Lesson_022.md
+    - "Lesson 023 · \"예전에는 ~했었는데, 지금은 ~해\"": Lesson_023.md
+    - "Lesson 024 · \"돈/시간을 쓰다\"": Lesson_024.md
+    - "Lesson 025 · 크리스마스 계획 대화": Lesson_025.md
+    - "Lesson 026 · 시간 표현 Part 1": Lesson_026.md
+    - "Lesson 027 · 감각동사 Part 1": Lesson_027.md
+    - "Lesson 028 · 감각동사 Part 2": Lesson_028.md
+    - "Lesson 029 · 감각동사 Part 3 + seem": Lesson_029.md
+    - "Lesson 030 · 감각동사 Part 4": Lesson_030.md
+    - "Lesson 031 · 관계절 Part 1": Lesson_031.md
+    - "Lesson 032 · 전치사를 살려야 하는": Lesson_032.md
+    - "Lesson 033 · 주어가 생략되는": Lesson_033.md
+    - "Lesson 034 · 관계절을 실전 대화에 녹이기 — 중고차 구하는 대화": Lesson_034.md
+    - "Lesson 035 · the food there": Lesson_035.md
+    - "Lesson 036 · a lot of · a lot": Lesson_036.md
+    - "Lesson 037 · hurt": Lesson_037.md
+    - "Lesson 038 · I slept wrong": Lesson_038.md
+    - "Lesson 039 · cheer up / came out wrong / hone…": Lesson_039.md
+    - "Lesson 040 · have someone over / go over / co…": Lesson_040.md
   - 41~60강 · 일상 회화 표현:
-    - "Lesson 041": Lesson_041.md
-    - "Lesson 042": Lesson_042.md
-    - "Lesson 043": Lesson_043.md
-    - "Lesson 044": Lesson_044.md
-    - "Lesson 045": Lesson_045.md
-    - "Lesson 046": Lesson_046.md
-    - "Lesson 047": Lesson_047.md
-    - "Lesson 048": Lesson_048.md
-    - "Lesson 049": Lesson_049.md
-    - "Lesson 050": Lesson_050.md
-    - "Lesson 051": Lesson_051.md
-    - "Lesson 052": Lesson_052.md
-    - "Lesson 053": Lesson_053.md
-    - "Lesson 054": Lesson_054.md
-    - "Lesson 055": Lesson_055.md
-    - "Lesson 056": Lesson_056.md
-    - "Lesson 057": Lesson_057.md
-    - "Lesson 058": Lesson_058.md
-    - "Lesson 059": Lesson_059.md
-    - "Lesson 060": Lesson_060.md
+    - "Lesson 041 · left": Lesson_041.md
+    - "Lesson 042 · 간접 의문문 Part 1": Lesson_042.md
+    - "Lesson 043 · 간접 의문문 Part 2": Lesson_043.md
+    - "Lesson 044 · \"젊었을 때\"부터 \"나이가 들수록\"까지": Lesson_044.md
+    - "Lesson 045 · 고민 표현하기": Lesson_045.md
+    - "Lesson 046 · \"이렇게 하는 게 낫다/나을 거야/나을 수도 있어\"": Lesson_046.md
+    - "Lesson 047 · \"원래 이런 거야?\"": Lesson_047.md
+    - "Lesson 048 · \"원래 이렇게 ~해?\" 한 문장으로 압축": Lesson_048.md
+    - "Lesson 049 · 나이대·키·몸무게 묘사하기": Lesson_049.md
+    - "Lesson 050 · \"해야 될 거야 / 해야 될 수도 있어\"": Lesson_050.md
+    - "Lesson 051 · \"할 기회가 있었어요\"": Lesson_051.md
+    - "Lesson 052 · 현재 완료형으로 \"이미/아직\" 말하기": Lesson_052.md
+    - "Lesson 053 · 동사 carry": Lesson_053.md
+    - "Lesson 054 · 동사 leave": Lesson_054.md
+    - "Lesson 055 · 동사 happen": Lesson_055.md
+    - "Lesson 056 · I like it when / I don't like it…": Lesson_056.md
+    - "Lesson 057 · 습관·선호 표현 확장": Lesson_057.md
+    - "Lesson 058 · 구동사 run out of": Lesson_058.md
+    - "Lesson 059 · 장갑 대화로 배우는 복수 대명사와 가정법 표현": Lesson_059.md
+    - "Lesson 060 · I spent / I wasted + 시간 + 장소 + -…": Lesson_060.md
   - 61~80강 · 동사 활용·시간 표현:
-    - "Lesson 061": Lesson_061.md
-    - "Lesson 062": Lesson_062.md
-    - "Lesson 063": Lesson_063.md
-    - "Lesson 064": Lesson_064.md
-    - "Lesson 065": Lesson_065.md
-    - "Lesson 066": Lesson_066.md
-    - "Lesson 067": Lesson_067.md
-    - "Lesson 068": Lesson_068.md
-    - "Lesson 069": Lesson_069.md
-    - "Lesson 070": Lesson_070.md
-    - "Lesson 071": Lesson_071.md
-    - "Lesson 072": Lesson_072.md
-    - "Lesson 073": Lesson_073.md
-    - "Lesson 074": Lesson_074.md
-    - "Lesson 075": Lesson_075.md
-    - "Lesson 076": Lesson_076.md
-    - "Lesson 077": Lesson_077.md
-    - "Lesson 078": Lesson_078.md
-    - "Lesson 079": Lesson_079.md
-    - "Lesson 080": Lesson_080.md
+    - "Lesson 061 · alone / by myself / lonely": Lesson_061.md
+    - "Lesson 062 · I'm willing to ~": Lesson_062.md
+    - "Lesson 063 · speak / talk / tell / say": Lesson_063.md
+    - "Lesson 064 · wait / waited / had to wait": Lesson_064.md
+    - "Lesson 065 · decide": Lesson_065.md
+    - "Lesson 066 · on Monday / last week on Monday…": Lesson_066.md
+    - "Lesson 067 · the food there / the people here": Lesson_067.md
+    - "Lesson 068 · the best ~ I've ever seen/had": Lesson_068.md
+    - "Lesson 069 · get together / by then / run lat…": Lesson_069.md
+    - "Lesson 070 · mine / whose / someone else's": Lesson_070.md
+    - "Lesson 071 · looks/sounds/feels familiar": Lesson_071.md
+    - "Lesson 072 · 시간이 얼마나 있는지 스펙트럼으로 말하기": Lesson_072.md
+    - "Lesson 073 · 누가 어디서 무엇을 하는지 한 문장으로 말하기": Lesson_073.md
+    - "Lesson 074 · 날씨 변화를 영어로 표현하기": Lesson_074.md
+    - "Lesson 075 · 할 일이 있다/많다/밀렸다": Lesson_075.md
+    - "Lesson 076 · A뿐만 아니라 B도": Lesson_076.md
+    - "Lesson 077 · I want to be + 형용사/명사/전치사구/분사": Lesson_077.md
+    - "Lesson 078 · 관사 감각 기르기": Lesson_078.md
+    - "Lesson 079 · 하고 싶었지만 못했다": Lesson_079.md
+    - "Lesson 080 · 감각동사 감각 기르기": Lesson_080.md
   - 81~96강 · 의도·계획·걱정 표현:
-    - "Lesson 081": Lesson_081.md
-    - "Lesson 082": Lesson_082.md
-    - "Lesson 083": Lesson_083.md
-    - "Lesson 084": Lesson_084.md
-    - "Lesson 085": Lesson_085.md
-    - "Lesson 086": Lesson_086.md
-    - "Lesson 087": Lesson_087.md
-    - "Lesson 088": Lesson_088.md
-    - "Lesson 089": Lesson_089.md
-    - "Lesson 090": Lesson_090.md
-    - "Lesson 091": Lesson_091.md
-    - "Lesson 092": Lesson_092.md
-    - "Lesson 093": Lesson_093.md
-    - "Lesson 094": Lesson_094.md
-    - "Lesson 095": Lesson_095.md
-    - "Lesson 096": Lesson_096.md
+    - "Lesson 081 · 안 하기로 했다 / 다르게 하기로 했다": Lesson_081.md
+    - "Lesson 082 · I'm planning to / but if it rain…": Lesson_082.md
+    - "Lesson 083 · I'm thinking of + -ing / if some…": Lesson_083.md
+    - "Lesson 084 · 최상급(the cheapest / the most expe…": Lesson_084.md
+    - "Lesson 085 · showed/taught someone how to do…": Lesson_085.md
+    - "Lesson 086 · 라이브 스트림": Lesson_086.md
+    - "Lesson 087 · 라이브 스트림 대기 시간": Lesson_087.md
+    - "Lesson 088 · it takes / it cost / it took + 구…": Lesson_088.md
+    - "Lesson 089 · 라이브 스트림": Lesson_089.md
+    - "Lesson 090 · once/twice a day + I spend X min…": Lesson_090.md
+    - "Lesson 091 · 라이브 스트림 대기 시간": Lesson_091.md
+    - "Lesson 092 · 오늘/주말 계획을 영어로 말하기": Lesson_092.md
+    - "Lesson 093 · I'm going / I'm having / I have…": Lesson_093.md
+    - "Lesson 094 · 라이브 스트림": Lesson_094.md
+    - "Lesson 095 · 라이브 스트림": Lesson_095.md
+    - "Lesson 096 · I'm worried / I'm worried I migh…": Lesson_096.md

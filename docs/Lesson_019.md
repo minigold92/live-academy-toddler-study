@@ -4,6 +4,7 @@
 > ⏱ 16분 03초 · 👁 670K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **when** → `~할 때 / ~하면` (I'll call you when I arrive)
 > 2. **as soon as** → `~하자마자` (when의 즉시 버전)
 > 3. **after** → `~하고 나서 / ~후에` (I'm gonna go to the movies after work)

@@ -4,6 +4,7 @@
 > ⏱ 7분 37초 · 👁 224K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **`I have some time left`** — 나 시간 좀 남았어 (have + 명사 + left)
 > 2. **`I don't have any time left`** — 나 시간이 하나도 안 남았어
 > 3. **`I have a lot of time left`** — 시간이 많이 남았어

@@ -4,6 +4,7 @@
 > ⏱ 17분 55초 · 👁 268K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **낯이 익다** = **looks familiar** (감각동사 사용 — `is familiar` 보다 자연스러움)
 > 2. **어디서 본 것 같다** = **I think I've seen him/her/it somewhere**
 > 3. **귀에 익다** = **sounds familiar** / **어디서 들어본 것 같다** = **I think I've heard it somewhere**

@@ -4,6 +4,7 @@
 > ⏱ 9분 37초 · 👁 89K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **I'm waiting** (현재 진행) → **I waited** (과거) — wait 기본 활용
 > 2. **I'm waiting for 누구/무엇** = 누구/무엇을 기다리고 있다
 > 3. **I'm waiting for 무엇 to do something** = 무엇이 ~하기를 기다리고 있다 (동사까지 확장)

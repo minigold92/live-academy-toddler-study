@@ -4,6 +4,7 @@
 > ⏱ 12분 34초 · 👁 377K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **`annoying / annoyed`** → 싫은 일이 반복적으로 일어날 때 느끼는 짜증 (신경에 거슬림)
 > 2. **`frustrating / frustrated`** → 내 마음대로 안 돼서 느끼는 답답한 짜증
 > 3. **상황 묘사** → `-ing형`: `It's so annoying` / `It was so frustrating`

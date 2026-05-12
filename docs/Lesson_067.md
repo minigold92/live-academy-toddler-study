@@ -4,6 +4,7 @@
 > ⏱ 13분 08초 · 👁 161K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **the 명사 there / here** = 거기/여기 + 명사 (there/here는 부사이므로 명사 뒤에 위치)
 > 2. 주어로 쓸 때: `The food there is really good.` / `The people there are really friendly.`
 > 3. 목적어로 쓸 때: `I don't really like the food there.` / `I really don't like ~` (강조 시 really를 don't 앞으로)

@@ -4,6 +4,7 @@
 > ⏱ 19분 30초 · 👁 349K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **감각동사 + like + 명사** → `This looks like real leather` (진짜 가죽 같다)
 > 2. **감각동사 + like + 완성 문장** → `It sounds like it was a really serious problem` (심각한 문제 같더라)
 > 3. **형용사 vs 명사 구분** → 형용사면 like 없이(`This looks real`), 명사면 like 필요(`This looks like real leather`)

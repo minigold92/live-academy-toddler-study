@@ -4,6 +4,7 @@
 > ⏱ 5분 40초 · 👁 38K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **시간이 걸리다** → `It takes long` / `It takes a long time` / `It takes a lot of time`
 > 2. **구체적 시간** → `It took about two and a half hours.` (과거형 `took`)
 > 3. **비용이 들다** → `It cost about 130,000원.` (cost의 과거형도 `cost`, 변화 없음)

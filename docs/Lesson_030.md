@@ -4,6 +4,7 @@
 > ⏱ 7분 43초 · 👁 226K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **내가 보기엔 좋아** → `It looks good to me`
 > 2. **내가 듣기엔 괜찮아** → `It sounds okay to me`
 > 3. **네가 보기엔 어때?** → `Does it look okay to you?` / `How does it look to you?`

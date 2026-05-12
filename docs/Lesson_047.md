@@ -4,6 +4,7 @@
 > ⏱ 16분 27초 · 👁 777K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. "원래 이래" (정상이다, 의도된 것) → **`It's supposed to be like this`**
 > 2. "원래 이래" (항상 그렇다, 성향/상황) → **`It's always like this`**
 > 3. 의문형: **`Is it supposed to be like this?`** / **`Is it always like this?`**

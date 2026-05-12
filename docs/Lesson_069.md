@@ -4,6 +4,7 @@
 > ⏱ 14분 14초 · 👁 131K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **We get together** = 우리는 모인다 (`get together` = 모이다)
 > 2. **based on everyone's schedule** = 모두의 스케줄을 토대로/바탕으로
 > 3. **I can be there by then** = 그때까지 거기 갈 수 있을 것 같아 (`by` = 기한 개념, 그 이전에도 가능)

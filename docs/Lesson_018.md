@@ -4,6 +4,7 @@
 > ⏱ 8분 18초 · 👁 439K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **현재 의문형**: `Does it take long?` / `Does it take a lot of time?` — 오래 걸리나요?
 > 2. **과거 의문형**: `Did it take long?` — 오래 걸렸나요?
 > 3. **미래 의문형**: `Would it take long?` — 오래 걸릴까요? (`is it gonna` 보다 자연스러운 표현)

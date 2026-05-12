@@ -4,6 +4,7 @@
 > ⏱ 7분 56초 · 👁 199K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **`I was trying to cheer her up`** — 그녀의 기분을 풀어주려고 했었어 (cheer someone up)
 > 2. **`The words came out wrong`** — 말이 잘못 나왔어 (came out wrong)
 > 3. **`It was an honest mistake`** — 정말 모르고 한 실수였어 (Lesson 38 복습)

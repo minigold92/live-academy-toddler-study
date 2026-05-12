@@ -4,6 +4,7 @@
 > ⏱ — · 👁 —
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **be 동사 과거 의문문**: `Is it fun?` → **`Was it fun?`** (is → was)
 > 2. **be 동사 미래 의문문 (인상)**: `be going to` 대신 **`will`** 권장 → **`Will it be fun?`**
 > 3. 인상에 대한 미래 의문문은 `is it gonna be?`보다 `will it be?`가 더 자연스러움

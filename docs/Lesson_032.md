@@ -4,6 +4,7 @@
 > ⏱ 18분 25초 · 👁 346K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. 관계절 안에서 동사와 짝을 이루는 **전치사는 반드시 살려야** 한다 (생략하면 어색함)
 > 2. **장소 전치사 in** → `I've been living in this apartment` → `the apartment that I've been living in`
 > 3. **출처 전치사 from** → `I got information from this website` → `the website that I got information from`

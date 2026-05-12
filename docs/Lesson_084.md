@@ -4,6 +4,7 @@
 > ⏱ 17분 41초 · 👁 60K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **1·2음절 형용사** → 뒤에 `-est` 붙여 최상급 → `the cheapest`, `the biggest`, `the smallest`
 > 2. **3음절 이상 형용사** → `the most + 형용사` → `the most expensive`, `the most beautiful`
 > 3. **"가장 좋은"** → `the best` (good의 불규칙 최상급, `the most good` 아님)

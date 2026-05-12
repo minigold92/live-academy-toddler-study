@@ -4,6 +4,7 @@
 > ⏱ 10분 59초 · 👁 150K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **복수 대명사 활용**: 장갑처럼 쌍으로 취급하는 물건 → `those / they / them / ones`
 > 2. **영어는 대명사로 대체, 한국어는 생략** — `Yeah, they're mine.` / `I got them like a month ago.`
 > 3. **ones** = 앞에 나온 명사를 대신하는 복수 대명사: `similar ones`

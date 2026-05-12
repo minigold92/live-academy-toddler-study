@@ -4,6 +4,7 @@
 > ⏱ 19분 09초 · 👁 144K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **누군가/무언가가 걱정되다** → `I'm worried about + 대상` (`about`은 "~에 대해서"가 아니라 "~이 걱정된다"는 뜻으로 받아들이기)
 > 2. **~할까봐 걱정된다** → `I'm worried I might + 동사` (I'm worried that 생략 가능)
 > 3. **~을 못할까봐 걱정된다** → `I'm worried I might not be able to + 동사` (`might not` 뒤에 반드시 `be able to`)

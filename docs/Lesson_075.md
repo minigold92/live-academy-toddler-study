@@ -4,6 +4,7 @@
 > ⏱ 7분 40초 · 👁 72K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. 기본 구조 → `I have something to do` (할 게 있다)
 > 2. something 자리에 다양한 표현 넣기 → `some things`, `a lot`, `a lot of work`
 > 3. "밀린 일이 많다" → `I have a lot of work to catch up on`

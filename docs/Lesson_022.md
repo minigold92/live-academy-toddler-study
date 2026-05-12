@@ -4,6 +4,7 @@
 > ⏱ 13분 35초 · 👁 456K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **할 거 있어?** → `Do you have something to do right now?`
 > 2. **something to do** = "할 거" — 동사 바꾸면 `eat / buy / watch` 등 응용 무한대
 > 3. **별로 없어** → `I don't have much to do` (`much` 또는 `a lot`)

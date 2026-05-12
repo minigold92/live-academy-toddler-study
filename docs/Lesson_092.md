@@ -4,6 +4,7 @@
 > ⏱ 68분 31초 · 👁 21K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **약속된 일정 → 현재 진행형** `I'm going to Thailand.` / `I'm having lunch with my in-laws.`
 > 2. **계획·의도 → `I'm planning to + 동사`** — 무난하게 어디에나 쓸 수 있음
 > 3. **`I will`은 "내가 할게" 뉘앙스** — 의지·제안으로 읽힐 수 있으니 주의

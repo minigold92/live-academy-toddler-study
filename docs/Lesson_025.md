@@ -4,6 +4,7 @@
 > ⏱ 12분 45초 · 👁 248K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **spend + 특정 시간 + at 장소** → `spend Christmas at home` (크리스마스를 집에서 보내다)
 > 2. **그럴 것 같아** → `I think I'm just gonna + 동사` (불확실한 미래 계획 표현)
 > 3. **내 친구들 중 몇몇은** → `Some of my friends`

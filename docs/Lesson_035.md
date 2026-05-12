@@ -4,6 +4,7 @@
 > ⏱ 8분 39초 · 👁 166K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **`The food there is really good/great`** — 거기 음식 정말 맛있어 (형용사로 평가)
 > 2. **`They have really good food there`** — 거기 음식 정말 맛있어 (they have 패턴)
 > 3. **`I love / I really like the food there`** — 거기 음식 너무 좋아 (좋아하는 감정으로 표현)

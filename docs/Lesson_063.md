@@ -4,6 +4,7 @@
 > ⏱ 8분 48초 · 👁 104K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **speak / talk** = 말하는 행위 자체를 나타냄 (의미는 거의 같으나 `speak`가 좀 더 격식체)
 > 2. **We talked** (함께 대화) vs **We spoke** — 주어가 `we`일 때 `spoke`는 자신을 높이는 뉘앙스라 어색할 수 있음
 > 3. **tell** = 내용을 전달한다는 의미 포함 (`She told me about her new job.`)

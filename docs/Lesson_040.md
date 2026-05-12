@@ -4,6 +4,7 @@
 > ⏱ 5분 23초 · 👁 182K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **`I had a friend over (at my place)`** — 친구를 (집으로) 초대해서 놀러 왔어 (초대 의미 포함)
 > 2. **`go over to someone's place`** — 누구네 집에 놀러 가다
 > 3. **`come over (to my place)`** — (우리 집으로) 놀러 오다

@@ -4,6 +4,7 @@
 > ⏱ 6분 32초 · 👁 210K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **`seem`** — 기본 5가지 감각동사 외 추가 감각동사. 전반적인 느낌/인상을 포괄적으로 표현
 > 2. **`seem a little risky`** → 좀 위험한 것 같은데
 > 3. **`sound like + 명사`** → `it doesn't sound like a perfect plan` (완벽한 계획처럼 들리지 않아)

@@ -4,6 +4,7 @@
 > ⏱ 16분 41초 · 👁 50K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **빈도 표현** → `once / twice / three times a day` (하루에 한/두/세 번)
 > 2. **양 표현** → `I drink two cups of coffee a day.` (하루에 커피 두 잔 마신다)
 > 3. **시간 투자 표현** → `I spend + 시간 + every morning/day + -ing` (매일 아침 ~하는 데 ~를 쓰다)

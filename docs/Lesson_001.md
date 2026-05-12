@@ -4,6 +4,7 @@
 > ⏱ 9분 48초 · 👁 2.5M회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. 영어 문장의 기둥 = **본문장 (주어 + 동사)**: `I work`, `I study`, `I cook`, `I work out`
 > 2. 본문장 뒤에 **세부사항**을 붙여 의미를 확장: `I work everyday`
 > 3. 세부사항은 여러 개를 **나열**해도 됨: `I study at home six hours a day`

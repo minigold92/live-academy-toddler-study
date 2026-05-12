@@ -4,6 +4,7 @@
 > ⏱ 7분 50초 · 👁 66K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. "시간이 완전 많다" → `I have all the time in the world` (시간에 대해서만 쓰는 고정 표현)
 > 2. "시간 완전 충분해" → `We have plenty of time` (여유 있고 넉넉한 느낌)
 > 3. "시간 충분해" → `We have enough time` (필요한 만큼은 있다는 느낌)

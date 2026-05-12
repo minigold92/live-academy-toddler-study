@@ -4,6 +4,7 @@
 > ⏱ 6분 39초 · 👁 165K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **`When I was young`** vs **`When I was younger`** — 아직 젊은 축이라면 비교급 사용
 > 2. **어렸을 때**: `When I was little` (강사 선호) / `When I was a kid` / `When I was a child`
 > 3. **성장 시절**: `When I was growing up` (영어에서 자주 쓰는 표현)

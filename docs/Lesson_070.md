@@ -4,6 +4,7 @@
 > ⏱ 9분 24초 · 👁 95K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **Did you forget something?** = 뭐 잊었어요? (돌아온 사람에게)
 > 2. **I think I left my mask here.** = 제 마스크를 여기에 두고 간 것 같아요 (`left` = leave 과거형)
 > 3. **Is this it?** = 이거예요? (앞서 언급한 것을 `it`으로 지칭)

@@ -4,6 +4,7 @@
 > ⏱ 7분 28초 · 👁 60K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **계획의 또 다른 표현** → `I'm thinking of + -ing` (= ~할 생각이다, I'm planning to보다 좀 더 막연한 느낌)
 > 2. **변수 표현 업그레이드** → `if something comes up` (= 무슨 일이 생기면) — 덩어리째 외우기
 > 3. **이어지는 조건절** → `But if something comes up and I don't have time,`

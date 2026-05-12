@@ -4,6 +4,7 @@
 > ⏱ 9분 29초 · 👁 56K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. 복습 구조 → `I wanted to [X], but [변수], so I couldn't.`
 > 2. 변형 1 — 못한 게 아니라 안 하기로 한 경우 → `so I decided not to`
 > 3. 변형 2 — 대안을 선택한 경우 → `so we decided to [대안]`

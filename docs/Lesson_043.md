@@ -4,6 +4,7 @@
 > ⏱ — · 👁 —
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. 일반동사 의문문도 간접 의문절로 만들 수 있다: `Does she live?` → `she lives` (3인칭 단수 `-s` 복원)
 > 2. `Where does she live?` → `where she lives` (그녀가 어디에 사는지)
 > 3. 의문사가 두 단어인 경우도 OK: `What time do they open?` → `what time they open`

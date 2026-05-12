@@ -4,6 +4,7 @@
 > ⏱ 12분 56초 · 👁 567K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **있다** → `There is + 단수/셀 수 없는 명사` / `There are + 복수`
 > 2. **없다** → `There is no + 명사` / `There are no + 복수명사`
 > 3. **많다** → `There are many ~` / `There are a lot of ~` (셀 수 있는 것) / `There is a lot of ~` (셀 수 없는 것)

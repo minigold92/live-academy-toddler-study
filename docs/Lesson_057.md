@@ -4,6 +4,7 @@
 > ⏱ 9분 41초 · 👁 302K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **I have a habit of -ing** = ~하는 습관이 있어요 / 습관적으로 ~해요
 > 2. **leave it on** = 켜둔 채로 두다 / **even when ~** = ~할 때도, 심지어 ~할 때도
 > 3. **I like it when** (복습) vs. **I prefer it to be ~** = ~인 게 더 좋아요 (선호)

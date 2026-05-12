@@ -4,6 +4,7 @@
 > ⏱ 11분 30초 · 👁 106K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **It was the best movie I've seen.** = 내가 본 영화 중 가장 재밌었어 (과거/현재 둘 다 OK)
 > 2. 영화가 재밌다 → **good/best** 사용 (`fun`보다 자연스러움)
 > 3. **I've ever seen/had** — `ever` 추가로 "지금까지 ~ 중에서" 강조

@@ -4,6 +4,7 @@
 > ⏱ 156분 45초 · 👁 42K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. 감각동사 + 형용사 → `It sounds weird` / `You look great` / `That banana looks ripe`
 > 2. 감각동사 + like + 명사 → `It looks like real leather` / `It sounds like a cat`
 > 3. 감각동사 + like + 완성형 문장 → `It sounds like two cats are fighting`

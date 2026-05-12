@@ -4,6 +4,7 @@
 > ⏱ 11분 25초 · 👁 105K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. 특정 요일에는 **on** — `on Monday`, `on Friday`
 > 2. **last Monday** 단독 사용은 혼란 유발 → **last week on Monday**로 명확하게
 > 3. 이번 주 방금 지난 요일은 `on Monday` 또는 날짜로 표현

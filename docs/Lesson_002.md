@@ -4,6 +4,7 @@
 > ⏱ — · 👁 —
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. 주어가 **He / She / 사람 이름** (3인칭 단수)이면 동사에 **-s** 붙임: `He works`, `She studies`
 > 2. 부정문은 동사 앞에 **don't** 추가: `I don't work`
 > 3. 주어가 3인칭 단수일 때 부정문은 **doesn't** (don't → doesn't): `She doesn't cook`

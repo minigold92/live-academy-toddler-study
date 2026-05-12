@@ -4,6 +4,7 @@
 > ⏱ 5분 05초 · 👁 168K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **leave = 떠나다·출발하다** — `I left early today` / `I'm going to leave next week`
 > 2. **일정이 잡혀 있을 때** → 현재 진행형으로 미래 표현: `I'm leaving next week`
 > 3. **누군가/무언가를 두고 떠나다** → `leave + 사람/물건 + (장소/상태)`

@@ -4,6 +4,7 @@
 > ⏱ 17분 08초 · 👁 298K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **`Do you know anyone who ...?`** — "이러이러한 사람 혹시 알아?" (부정의 어감 → anyone)
 > 2. **`I just need something that I can ...`** — "내가 ~할 수 있는 게 필요해"
 > 3. **`I know a guy who is a ...`** — "나 ~인 사람 알아" (Lesson 33 패턴 실전 적용)

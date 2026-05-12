@@ -4,6 +4,7 @@
 > ⏱ 15분 05초 · 👁 356K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. "원래 이래?" + "이렇게 ~해?"를 한 문장으로: **`Is it always this crowded?`**
 > 2. 상태 변화에는: **`Is it supposed to get this hot?`** (`get` = 상태 변화)
 > 3. **`this + 형용사`** = "이렇게 ~한" (crowded, hot, hard, loud 등)

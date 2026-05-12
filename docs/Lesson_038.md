@@ -4,6 +4,7 @@
 > ⏱ 3분 42초 · 👁 181K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **`I slept wrong`** — 잠을 잘못 잤다 (wrong을 부사처럼 사용)
 > 2. **`I think I slept wrong`** — 잠을 잘못 잔 것 같아 (I think + 완성 문장)
 > 3. **`I wrote my address wrong`** — 주소를 잘못 썼어요 (동사 + 목적어 + wrong)

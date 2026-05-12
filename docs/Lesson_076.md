@@ -4,6 +4,7 @@
 > ⏱ 16분 51초 · 👁 120K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. 기본 구조 → `Not only A but also B` (A뿐만 아니라 B도)
 > 2. 세 가지 사용 맥락: ① 어떤 것/장소/사람이 A이면서 B이기도 함 ② 같은 행동을 두 대상에 함 ③ 다른 두 가지 행동을 함
 > 3. `also` 대신 완성형 문장 사용 가능 → `This is not only my bedroom but it's also my office`

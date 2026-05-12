@@ -4,6 +4,7 @@
 > ⏱ — · 👁 1K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **과거 시제**: 동사를 과거 형태로 바꿈 (`drive → drove`, `leave → left`)
 > 2. **미래 시제**: `be going to + 동사` (구어 발음: `gonna`)
 > 3. 미래 부정: `I'm not gonna + 동사` / `She's not gonna + 동사`

@@ -4,6 +4,7 @@
 > ⏱ 6분 15초 · 👁 108K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **`I had a chance to ~`** = 기회가 있었는데 (안 했다는 뉘앙스 내포)
 > 2. **`I got a chance to ~`** = 기회를 얻었다, 기회가 생겼다 (하고 왔다는 느낌)
 > 3. 줄여서: **`I got to do something`** (= `I got a chance to`와 같은 의미)

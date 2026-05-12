@@ -4,6 +4,7 @@
 > ⏱ 10분 07초 · 👁 248K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **일반적 사실로** 더 좋다: **`It's always better to just do something`**
 > 2. **구체적 상황에서** 나을 거야: **`I think it would be better to do something`**
 > 3. **가능성으로** 나을 수도 있어: **`It might be better to do something`**

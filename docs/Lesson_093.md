@@ -4,6 +4,7 @@
 > ⏱ 23분 52초 · 👁 36K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **잡혀있는 일정** → `I'm going (장소/활동)` 또는 `I'm having...` (현재 진행형으로 미래 약속 표현)
 > 2. **이미 있는 것** → `I have a meeting / a test / an appointment / a class` (일정이 '있다')
 > 3. **계획·의도** → `I'm planning to + 동사` (가장 무난하게 쓸 수 있는 표현)

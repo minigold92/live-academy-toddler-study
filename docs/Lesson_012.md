@@ -4,6 +4,7 @@
 > ⏱ — · 👁 —
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **여행 내내** → `throughout the entire trip` (`entire`로 내내 강조)
 > 2. **부정 의문문** → `Don't you have ~?` (상대방이 그럴 거라는 예상을 가지고 질문)
 > 3. **심지어 ~도** → `even` (동사 바로 앞 위치: `I even bought a car`)

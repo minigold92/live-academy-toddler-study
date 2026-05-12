@@ -4,6 +4,7 @@
 > ⏱ 12분 36초 · 👁 121K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **choose / select** = 주어진 옵션 중에서 고르다/선택하다
 > 2. **decide to do something** = 뭐뭐를 하기로 결정하다
 > 3. **decide not to do something** = 뭐뭐를 하지 않기로 결정하다 (decide를 부정하는 게 아니라 `not to`로 부정)

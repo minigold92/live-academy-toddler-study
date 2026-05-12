@@ -4,6 +4,7 @@
 > ⏱ 8분 03초 · 👁 146K회
 
 > 🎯 **오늘의 핵심 포인트**
+>
 > 1. **I spent + 시간 + 장소 + -ing** = ~에서 ~하면서 시간을 보냈어
 > 2. **all day / all weekend / all morning** 등 = 하루종일 / 주말 내내 / 아침 내내
 > 3. **the whole weekend / the entire weekend** = 주말 전체를 (강조)

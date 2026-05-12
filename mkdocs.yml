@@ -1,7 +1,7 @@
 site_name: 라이브 아카데미 토들러 학습 노트
 site_description: 왕초보 영어회화 96편 — 트랜스크립트 기반 학습 자료 + AI 인터랙션 프롬프트
 site_author: minigold92
-site_url: https://minigold92.github.io/live-academy-toddler-study/
+site_url: https://live-eng.minigold92.co.kr/
 
 repo_name: minigold92/live-academy-toddler-study
 repo_url: https://github.com/minigold92/live-academy-toddler-study
@@ -11,6 +11,7 @@ docs_dir: docs
 
 theme:
   name: material
+  custom_dir: overrides
   language: ko
   palette:
     - media: "(prefers-color-scheme: light)"
@@ -81,8 +82,17 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.keys
 
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/adsense.js
+
 extra:
   social:
+    - icon: material/heart
+      link: https://github.com/sponsors/minigold92
+      name: 후원하기 (GitHub Sponsors)
     - icon: fontawesome/brands/github
       link: https://github.com/minigold92/live-academy-toddler-study
     - icon: fontawesome/brands/youtube
@@ -94,6 +104,7 @@ copyright: |
 
 nav:
   - 홈: index.md
+  - 개인정보처리방침: privacy.md
   - 1~20강 · 문장 구성 기초:
     - "Lesson 001 — 영어 문장의 뼈대: **본문장 + 세부사항** 조합법": Lesson_001.md
     - "Lesson 002 — **3인칭 단수 -s**와 **부정문(don't / doesn't)** 만들기": Lesson_002.md

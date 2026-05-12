@@ -4,46 +4,109 @@ hide:
   - toc
 ---
 
-# 라이브 아카데미 토들러 — 학습 노트
+<div class="home-hero" markdown>
 
-> **새벽1시의 영어교실 / 라이브 아카데미 토들러** 왕초보 영어회화 96편의
-> 영상 자막을 기반으로 만든 학습 노트입니다. 강의 흐름 그대로 정리하되,
-> "오늘 배울 포인트"를 시각적으로 강조해서 무엇이 새로 추가됐는지 한눈에
-> 보이게 했습니다.
+# 라이브 아카데미 토들러 학습 노트
 
-## 자료 구성 (Lesson 한 편당)
+<p class="hero-tagline">
+YouTube 왕초보 영어회화 96편을 강의 흐름 그대로 정리한 학습 노트.
+강사가 강조한 영어 예문·발음 팁·문법 포인트만 골라 담고,
+AI와 1:1로 학습할 수 있는 4가지 프롬프트까지 한 페이지에.
+</p>
 
-- 🎯 **오늘의 핵심 포인트** — 그날 배울 문법/표현 1~5개
-- ✨ **상황별 변환 테이블** — 복습 vs 오늘 추가(🆕) 구분
-- 🧩 **문맥으로 이어 말하기** — 강사가 마지막에 합친 완성 문장
-- 🔑 **변환/응용 패턴** — 코드블록으로 명시적 패턴
-- 📖 **핵심 어휘** — 오늘 처음 나온 것만
-- 🗣️ **발음 팁** — 강사가 직접 코칭한 것만
-- 📝 **파생 연습** — 펼치는 정답 포함 3~5문제
-- 🤖 **AI와 함께 공부하기** — 4모드 프롬프트 (튜터/퀴즈/회화/응용)
+<div class="hero-actions">
+  <a class="hero-btn primary" href="Lesson_001/">📖 Lesson 001부터 보기</a>
+  <a class="hero-btn" href="#chapters">📚 챕터 둘러보기</a>
+  <a class="hero-btn" href="https://youtube.com/playlist?list=PLEzsBdrpZXC8tdzAqQHEQ66TocGI-Kagh" target="_blank">🎬 원본 재생목록</a>
+</div>
 
-## AI 인터랙션 4모드
+</div>
 
-각 레슨 하단에는 ChatGPT / Gemini / Claude 등 어떤 AI 서비스에든 그대로
-복사해서 붙여넣을 수 있는 4가지 학습 모드 프롬프트가 들어 있습니다.
+## 한 페이지에 들어 있는 것
 
-| 모드 | 설명 |
-|---|---|
-| 튜터 | 핵심 개념 점검 + 막히는 부분 1:1 질문 |
-| 퀴즈/드릴 | 한→영 작문 10문제 + 자동 채점 + 패턴 정리 |
-| 회화 롤플레이 | 미국인 친구로 자연스러운 대화 + 부드러운 교정 |
-| 응용 확장 | 사용자 일상을 인터뷰해서 같은 패턴으로 개인화 문장 생성 |
+<div class="card-grid" markdown>
 
-코드블록 우측 상단의 📋 복사 아이콘으로 프롬프트 전체를 한 번에 복사할 수 있습니다.
+<a class="card" href="Lesson_005/">
+  <span class="card-emoji">🎯</span>
+  <div class="card-title">오늘의 핵심 포인트</div>
+  <div class="card-desc">강사가 그날 새로 도입한 문법/표현 1~5개. 🆕 마크로 복습과 명확히 구분.</div>
+</a>
 
-## 시작하기
+<a class="card" href="Lesson_005/">
+  <span class="card-emoji">✨</span>
+  <div class="card-title">상황별 변환 테이블</div>
+  <div class="card-desc">한 시나리오에서 본 문장 → 오늘의 변환 → 응용을 한눈에. 한국어 의역 함께.</div>
+</a>
 
-좌측 사이드바에서 원하는 강을 고르거나, 우측 상단의 🔍 검색으로 표현/문법을
-찾아보세요. 모바일 환경에서도 동일하게 작동합니다.
+<a class="card" href="Lesson_005/">
+  <span class="card-emoji">🤖</span>
+  <div class="card-title">AI 학습 4모드</div>
+  <div class="card-desc">ChatGPT/Gemini/Claude에 그대로 복사·붙여넣기. 튜터·퀴즈·롤플레이·응용.</div>
+</a>
+
+<a class="card" href="Lesson_005/">
+  <span class="card-emoji">🗣️</span>
+  <div class="card-title">발음·뉘앙스 코칭</div>
+  <div class="card-desc">강사가 영상에서 짚어준 연음·약화·줄임만 정리. 군더더기 없음.</div>
+</a>
+
+</div>
+
+<div class="adsense-slot">
+  <ins class="adsbygoogle"
+    style="display:block"
+    data-ad-client="ca-pub-6603233291542960"
+    data-ad-slot="auto"
+    data-ad-format="auto"
+    data-full-width-responsive="true"></ins>
+</div>
+
+<h2 id="chapters">챕터별 둘러보기</h2>
+
+<div class="card-grid" markdown>
+
+<a class="card" href="Lesson_001/">
+  <span class="card-emoji">🌱</span>
+  <div class="card-title">1~20강 · 문장 구성 기초</div>
+  <div class="card-desc">본문장 + 세부사항 / 3인칭 -s / be동사 / 시제 / 의문문 / 연결어 / there is·are</div>
+</a>
+
+<a class="card" href="Lesson_021/">
+  <span class="card-emoji">🌿</span>
+  <div class="card-title">21~40강 · be·관계절·감각동사</div>
+  <div class="card-desc">감정 형용사 -ing/-ed / spend / 시간 표현 / 감각동사 / 관계절 / 일상 표현</div>
+</a>
+
+<a class="card" href="Lesson_041/">
+  <span class="card-emoji">🌳</span>
+  <div class="card-title">41~60강 · 일상 회화 표현</div>
+  <div class="card-desc">간접 의문문 / 고민·낫다·원래 / 외모 묘사 / have to / 기회 / 현재완료 / 일상 동사</div>
+</a>
+
+<a class="card" href="Lesson_061/">
+  <span class="card-emoji">🍀</span>
+  <div class="card-title">61~80강 · 동사·시간 표현</div>
+  <div class="card-desc">willing to / speak·tell·say / decide / 날짜 / 최상급 / familiar / 약속 대화</div>
+</a>
+
+<a class="card" href="Lesson_081/">
+  <span class="card-emoji">🍂</span>
+  <div class="card-title">81~96강 · 의도·계획·걱정</div>
+  <div class="card-desc">decided to/not to / planning to / thinking of / 시간·비용·빈도 / worried about / What if</div>
+</a>
+
+</div>
+
+## 어떻게 만들어졌나
+
+1. `yt-dlp`로 96편 오디오 → 16kHz mono wav 다운로드
+2. `mlx-whisper large-v3-turbo`로 한·영 혼합 음성 전사
+3. 트랜스크립트를 강의 흐름 그대로 학습 자료 마크다운으로 정리
+4. 각 레슨에 YouTube 메타정보(제목·길이·조회수) 자동 삽입
+5. **MkDocs Material**로 정적 사이트 빌드 → GitHub Pages 자동 배포
 
 ## 출처 / 면책
 
-- 영상: [라이브 아카데미 토들러 재생목록](https://youtube.com/playlist?list=PLEzsBdrpZXC8tdzAqQHEQ66TocGI-Kagh)
-- 자막 추출: mlx-whisper (large-v3-turbo)
-- 학습 자료는 강의 흐름과 예문을 학습 보조 목적으로 정리한 비상업적 결과물입니다.
-  강의 자체의 권리는 원작자에게 있습니다. 학습 후 원본 영상 시청을 권장합니다.
+- 영상 권리: [라이브 아카데미 토들러](https://www.youtube.com/@LiveAcademyToddler) (새벽1시의 영어교실)
+- 본 자료는 학습 보조 목적의 비상업적 정리물입니다. 학습 후 **원본 영상 시청을 강력히 권장**합니다.
+- [개인정보처리방침](privacy.md) · [GitHub 저장소](https://github.com/minigold92/live-academy-toddler-study)

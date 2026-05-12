@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  <!-- Google AdSense -->
+  <meta name="google-adsense-account" content="ca-pub-6603233291542960">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6603233291542960"
+    crossorigin="anonymous"></script>
+
+  {% if page %}
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ page.title|default(config.site_name) }}">
+  <meta property="og:description" content="{{ (page.meta.description if page.meta else None) or config.site_description }}">
+  <meta property="og:url" content="{{ page.canonical_url }}">
+  <meta property="og:site_name" content="{{ config.site_name }}">
+  <meta property="og:locale" content="ko_KR">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{ page.title|default(config.site_name) }}">
+  <meta name="twitter:description" content="{{ (page.meta.description if page.meta else None) or config.site_description }}">
+  {% endif %}
+{% endblock %}

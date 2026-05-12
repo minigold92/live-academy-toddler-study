@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://live-eng.minigold92.co.kr/sitemap.xml

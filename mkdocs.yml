@@ -33,10 +33,13 @@ theme:
     code: JetBrains Mono
   features:
     - navigation.instant
+    - navigation.instant.prefetch
     - navigation.tracking
+    - navigation.tabs
     - navigation.sections
     - navigation.path
     - navigation.top
+    - navigation.footer
     - navigation.indexes
     - navigation.prune
     - search.suggest
@@ -101,8 +104,9 @@ copyright: |
 
 nav:
   - 홈: index.md
-  - 개인정보처리방침: privacy.md
-  - 1~20강 · 문장 구성 기초:
+  - 전체 레슨: all.md
+  - 🌱 1~20강 · 문장 구성 기초:
+    - chapters/01-20.md
     - "Lesson 001 · 본문장 + 세부사항": Lesson_001.md
     - "Lesson 002 · 3인칭 단수 -s · 부정문(don't / doesn't)": Lesson_002.md
     - "Lesson 003 · be 동사(비동사) 입문": Lesson_003.md
@@ -123,7 +127,8 @@ nav:
     - "Lesson 018 · Does/Did/Would it take long?": Lesson_018.md
     - "Lesson 019 · when / after / before / until": Lesson_019.md
     - "Lesson 020 · boring vs. bored / confusing vs.…": Lesson_020.md
-  - 21~40강 · be동사·관계절·감각동사:
+  - 🌿 21~40강 · be·관계절·감각동사:
+    - chapters/21-40.md
     - "Lesson 021 · annoying vs. annoyed / frustrati…": Lesson_021.md
     - "Lesson 022 · \"할 거 있어?\"": Lesson_022.md
     - "Lesson 023 · \"예전에는 ~했었는데, 지금은 ~해\"": Lesson_023.md
@@ -144,7 +149,8 @@ nav:
     - "Lesson 038 · I slept wrong": Lesson_038.md
     - "Lesson 039 · cheer up / came out wrong / hone…": Lesson_039.md
     - "Lesson 040 · have someone over / go over / co…": Lesson_040.md
-  - 41~60강 · 일상 회화 표현:
+  - 🌳 41~60강 · 일상 회화 표현:
+    - chapters/41-60.md
     - "Lesson 041 · left": Lesson_041.md
     - "Lesson 042 · 간접 의문문 Part 1": Lesson_042.md
     - "Lesson 043 · 간접 의문문 Part 2": Lesson_043.md
@@ -165,7 +171,8 @@ nav:
     - "Lesson 058 · 구동사 run out of": Lesson_058.md
     - "Lesson 059 · 장갑 대화로 배우는 복수 대명사와 가정법 표현": Lesson_059.md
     - "Lesson 060 · I spent / I wasted + 시간 + 장소 + -…": Lesson_060.md
-  - 61~80강 · 동사 활용·시간 표현:
+  - 🍀 61~80강 · 동사 활용·시간 표현:
+    - chapters/61-80.md
     - "Lesson 061 · alone / by myself / lonely": Lesson_061.md
     - "Lesson 062 · I'm willing to ~": Lesson_062.md
     - "Lesson 063 · speak / talk / tell / say": Lesson_063.md
@@ -186,7 +193,8 @@ nav:
     - "Lesson 078 · 관사 감각 기르기": Lesson_078.md
     - "Lesson 079 · 하고 싶었지만 못했다": Lesson_079.md
     - "Lesson 080 · 감각동사 감각 기르기": Lesson_080.md
-  - 81~96강 · 의도·계획·걱정 표현:
+  - 🍂 81~96강 · 의도·계획·걱정:
+    - chapters/81-96.md
     - "Lesson 081 · 안 하기로 했다 / 다르게 하기로 했다": Lesson_081.md
     - "Lesson 082 · I'm planning to / but if it rain…": Lesson_082.md
     - "Lesson 083 · I'm thinking of + -ing / if some…": Lesson_083.md
@@ -203,3 +211,4 @@ nav:
     - "Lesson 094 · 라이브 스트림": Lesson_094.md
     - "Lesson 095 · 라이브 스트림": Lesson_095.md
     - "Lesson 096 · I'm worried / I'm worried I migh…": Lesson_096.md
+  - 개인정보처리방침: privacy.md

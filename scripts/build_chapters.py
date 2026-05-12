@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 """Generate chapter index pages with all lessons in that chapter as cards.
-Also generates an 'all lessons' overview page."""
+Also generates an 'all lessons' overview page.
+Uses root-absolute URLs (/Lesson_NNN/) so links work regardless of containing page depth."""
 import os, re
 
 DOCS = "docs"
@@ -16,7 +17,6 @@ CHAPTERS = [
 
 
 def lesson_meta(n: int):
-    """Returns (h1_title, video_meta_line) from Lesson_NNN.md, or None if missing."""
     path = os.path.join(DOCS, f"Lesson_{n:03d}.md")
     if not os.path.exists(path):
         return None
@@ -35,7 +35,6 @@ def lesson_meta(n: int):
 
 
 def short_topic(h1: str) -> str:
-    """Extract the day's grammar point from H1 (the **bold** segment or text after dash)."""
     bolds = re.findall(r"\*\*([^*]+)\*\*", h1)
     if bolds:
         return " · ".join(b.strip() for b in bolds)
@@ -47,7 +46,7 @@ def short_topic(h1: str) -> str:
     return rest
 
 
-def card_for_lesson(n: int) -> str:
+def card_for_lesson(n: int, href: str) -> str:
     meta = lesson_meta(n)
     if not meta:
         return ""
@@ -59,7 +58,7 @@ def card_for_lesson(n: int) -> str:
         if m:
             duration = m.group(1)
     return (
-        f'<a class="lesson-card" href="../Lesson_{n:03d}/">'
+        f'<a class="lesson-card" href="{href}">'
         f'<div class="lesson-num">Lesson {n:03d}</div>'
         f'<div class="lesson-topic">{topic}</div>'
         f'<div class="lesson-meta">{duration}</div>'
@@ -69,9 +68,9 @@ def card_for_lesson(n: int) -> str:
 
 os.makedirs(OUT_CHAPTERS, exist_ok=True)
 
-# Per-chapter index pages
+# Per-chapter index pages — these are at /chapters/NN-MM/, need ../../Lesson_NNN/
 for start, end, emoji_num, title, desc in CHAPTERS:
-    cards = [card_for_lesson(n) for n in range(start, end + 1)]
+    cards = [card_for_lesson(n, f"../../Lesson_{n:03d}/") for n in range(start, end + 1)]
     cards = [c for c in cards if c]
     content = f"""---
 hide:
@@ -91,16 +90,16 @@ hide:
     with open(os.path.join(OUT_CHAPTERS, f"{start:02d}-{end:02d}.md"), "w") as f:
         f.write(content)
 
-# All-lessons overview page
-all_cards = []
+# All-lessons overview page — at /all/, needs ../Lesson_NNN/
+all_blocks = []
 for start, end, emoji_num, title, _desc in CHAPTERS:
-    all_cards.append(f'<h2 class="chapter-heading">{emoji_num} · {title}</h2>')
-    all_cards.append('<div class="lesson-grid">')
+    all_blocks.append(f'<h2 class="chapter-heading">{emoji_num} · {title}</h2>')
+    all_blocks.append('<div class="lesson-grid">')
     for n in range(start, end + 1):
-        c = card_for_lesson(n)
+        c = card_for_lesson(n, f"../Lesson_{n:03d}/")
         if c:
-            all_cards.append(c)
-    all_cards.append('</div>')
+            all_blocks.append(c)
+    all_blocks.append('</div>')
 
 all_content = """---
 hide:
@@ -111,7 +110,7 @@ hide:
 
 총 96편. 검색이나 카드 클릭으로 원하는 레슨에 바로 이동하세요.
 
-""" + "\n".join(all_cards)
+""" + "\n".join(all_blocks)
 
 with open(os.path.join(DOCS, "all.md"), "w") as f:
     f.write(all_content)
